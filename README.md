@@ -8,9 +8,8 @@ Earn or lose points based on your rizz (points are arbitrarily assigned by the L
 **Warning : it contains NSFW assets (nothing crazy).**
 
 <p align="center">
-  <img src="image/README/1721656561892.png" width="30%" />
-  <img src="image/README/1721656715690.png" width="30%" />
-  <img src="image/README/1721656670448.png" width="30%" />
+  <img src="image/README/1721656715690.png" width="48%" />
+  <img src="image/README/1721656670448.png" width="48%" />
 
 </p>
 
@@ -22,15 +21,11 @@ Earn or lose points based on your rizz (points are arbitrarily assigned by the L
 </p>
 
 
-Choose from multiple LLM models:
+Choose from multiple LLM models (your local models via Ollama, or the most popular ones via API).
 
-* Your local models via Ollama
-* Gemini API
-* Anthropic API
-* OpenAI API
-* GROC API
+Quality of the game will be affected by the quality of the LLM model and its capabilities to follow the system prompts and stay in character.
 
-Except for these models, anything else is local and all information is stored in cache.
+Except for the clouded models, anything else is local and all information is stored in cache.
 
 There are different expressions the avatar can display based on the interactions, and some hidden actions (like moving from a place to another).
 
