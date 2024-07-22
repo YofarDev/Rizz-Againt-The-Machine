@@ -1,7 +1,9 @@
 
 # Rizz Againt The Machine
 
-A small game based on LLMs. [Play it for free](https://rizzatm.web.app/).
+A small game based on LLMs. 
+
+[Play it for free](https://rizzatm.web.app/).
 
 Earn or lose points based on your rizz (points are arbitrarily assigned by the LLM, so I don't think it's esport ready).
 
@@ -67,9 +69,3 @@ TODO
 1. Download the latest Android release from the [releases page](https://github.com/YofarDev/Rizz-Againt-The-Machine/releases/).
 2. Open the APK with your android device to install the application.
 
-
-
-## Issues
-
-- Ollama is currently not working with the web version (CORS error).
-- I have not tested Anthropic and OpenAI APIs yet
