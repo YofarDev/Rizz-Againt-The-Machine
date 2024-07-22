@@ -1,4 +1,3 @@
-![1721655571938](image/README/1721655571938.png)
 
 # Rizz Againt The Machine
 
@@ -30,3 +29,7 @@ Except for the clouded models, anything else is local and all information is sto
 There are different expressions the avatar can display based on the interactions, and some hidden actions (like moving from a place to another).
 
 Desktop version and Android version may be available soon.
+
+## Demo Video on YouTube
+
+[![Demo Video](https://img.youtube.com/vi/jKWzCjDpbtY/0.jpg)](https://www.youtube.com/watch?v=jKWzCjDpbtY)
