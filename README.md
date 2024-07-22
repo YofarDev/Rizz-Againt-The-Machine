@@ -33,3 +33,37 @@ Desktop version and Android version may be available soon.
 ## Demo Video on YouTube
 
 [![Demo Video](https://img.youtube.com/vi/jKWzCjDpbtY/0.jpg)](https://www.youtube.com/watch?v=jKWzCjDpbtY)
+
+## How to Run
+
+### MacOS
+
+1. Download the latest MacOS release from the [releases page](https://github.com/YofarDev/Rizz-Againt-The-Machine/releases/).
+2. Extract the archive and run the application.
+
+### Linux
+
+1. Download the latest Linux release from the [releases page](https://github.com/YofarDev/Rizz-Againt-The-Machine/releases/).
+2. Extract the archive.
+3. Make sure the executable has the proper permissions:
+    ```sh
+    chmod +x rizz_against_the_machine
+    ```
+4. Run the application:
+    ```sh
+    ./rizz_against_the_machine
+    ```
+
+### Android
+
+1. Download the latest Android release from the [releases page](https://github.com/YofarDev/Rizz-Againt-The-Machine/releases/).
+2. Open the APK with your android device to install the application.
+
+### Windows
+
+TODO
+
+## Issues
+
+- Ollama is currently not working with the web version (CORS error).
+- I have not tested Anthropic and OpenAI APIs so maybe it doesn't work you tell me.
