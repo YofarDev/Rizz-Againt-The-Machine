@@ -4,23 +4,23 @@
 A small game based on LLMs. [Play it for free](https://rizzatm.web.app/).
 Earn or lose points based on your rizz (points are arbitrarily assigned by the LLM).
 
-**Warning : it contains NSFW assets (nothing crazy).**
+
 
 <p align="center">
   <img src="image/README/1721656715690.png" width="48%" />
   <img src="image/README/1721656670448.png" width="48%" />
-
 </p>
+
+**Warning : it contains NSFW assets (nothing crazy).**
 
 ## Features
 
+Choose from multiple LLM models (your local models via Ollama, or the most popular ones via API).
 
 <p align="center">
   <img src="image/README/1721656490980.png" width="50%" />
 </p>
 
-
-Choose from multiple LLM models (your local models via Ollama, or the most popular ones via API).
 
 Quality of the game will be affected by the quality of the LLM model and its capabilities to follow the system prompts and stay in character.
 
