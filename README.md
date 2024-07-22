@@ -2,7 +2,8 @@
 # Rizz Againt The Machine
 
 A small game based on LLMs. [Play it for free](https://rizzatm.web.app/).
-Earn or lose points based on your rizz (points are arbitrarily assigned by the LLM).
+
+Earn or lose points based on your rizz (points are arbitrarily assigned by the LLM, so I don't think it's esport ready).
 
 
 
