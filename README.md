@@ -1,5 +1,5 @@
 
-# Rizz Againt The Machine
+# Rizz Against The Machine
 
 A small game based on LLMs. 
 
